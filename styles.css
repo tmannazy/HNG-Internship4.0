@@ -1,0 +1,75 @@
+*{
+	margin:0;
+	padding:0;
+}
+body {
+	background-image: url('brooke-lark-289769-unsplash.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#container{
+	background: rgba(255, 255, 255, 0.5);
+	min-height: 670px;
+}
+
+#time{
+	padding:10px;
+}
+
+.brand-text {
+	font-family: 'Ribeye Marrow', Helvetica, serif;
+	font-size: 400%;
+	color: maroon;
+}
+
+form.log, .brand-info {
+	width: 40%;
+	margin:50px auto;
+	text-align: center;
+}
+
+.brand-info{
+	text-align:right;
+	padding-right:120px;
+}
+
+form.log{
+	margin-top:200px;
+}
+
+form.log input{
+	width:60%;
+	font-size: 1.3em;
+	padding:8px;
+	margin:10px;
+	color:teal;
+}
+
+form.log button{
+	width:30%;
+	font-size:1.3em;
+}
+
+form.log input, form.log button{
+	border-radius: 10px;
+	border:0;
+}
+
+form.log button{
+	background: maroon;
+	padding:8px;
+}
+/*p {
+	padding-left: 820px;
+	height: -5px;
+	color: deepskyblue;	
+}
+
+input#user {
+	border-radius: 50px;
+
+}*/
+
+#
